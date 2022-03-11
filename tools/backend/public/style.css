@@ -1,0 +1,22 @@
+body {
+  background-color: #ffffff;
+  color: #000000;
+  font: 12pt verdana, tahoma, arial, san serif;
+  margin: 20px;
+  text-align: left;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+th, td {
+  border-bottom: 1px solid #ddd;
+  padding: 0 20px 0 10px;
+}
+
+tr:nth-child(even) {background-color: #f2f2f2;} 
+
+address {
+  font: 9pt verdana, tahoma, arial, san serif;
+}
